@@ -1,0 +1,9 @@
+/* #sfondo-intestazione {
+    background-color: blue;
+    background-image: url("/img/pattern.png");
+} */
+
+#testo-chiaro {
+    color: lightgray;
+    font-size: 15px;
+}
