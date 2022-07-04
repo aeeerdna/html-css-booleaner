@@ -7,3 +7,16 @@
     color: lightgray;
     font-size: 15px;
 }
+
+#tim-1 {
+    width: 60%;
+
+}
+
+#tim-2 {
+    width: 40%;
+}
+
+.descrizione-foto {
+    font-size: 12px;
+}
