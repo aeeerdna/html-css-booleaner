@@ -8,6 +8,10 @@
     margin-top: 15px;
 }
 
+main {
+    padding: 10px;
+}
+
 /* end IMPOSTAZIONE PAGINA */
 
 /* LOGO */
@@ -66,10 +70,31 @@ header {
 /* end TESTO LOREM */
 
 /* ELENCO PUNTATO */
+ol {
+    padding-left: 15px;
+    list-style-type: square;
+}
 
 /* end ELENCO PUNTATO */
 
 /* TABELLA LOREM */
+#tabella-parti {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#tabella-parti th {
+    background-color: #4ea0ff;
+    color: white;
+}
+
+.celle-piccole {
+    width: 25%;
+}
+
+.celle-grandi {
+    width: 50%;
+}
 
 /* end TABELLA LOREM */
 
