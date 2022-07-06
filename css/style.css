@@ -6,6 +6,7 @@
 
 .paragrafi {
     margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 main {
@@ -33,7 +34,7 @@ header {
 
 
 /* TITOLO e AUTORE */
-#sottotitolo {
+.sottotitolo {
     color: #8f8f8f;
 }
 
@@ -81,6 +82,7 @@ ol {
 #tabella-parti {
     width: 100%;
     border-collapse: collapse;
+    text-align: left;
 }
 
 #tabella-parti th {
@@ -96,9 +98,33 @@ ol {
     width: 50%;
 }
 
+.celle-colorate {
+    background-color: rgba(0, 157, 242, 0.5);
+}
+
 /* end TABELLA LOREM */
 
 /* INFORMAZIONI PRODOTTI */
+#altri-articoli {
+    padding-left: 10px;
+}
+
+#monitor {
+    background-image: url(../img/monitor.jpg);
+}
+
+#grafico {
+    background-image: url(../img/graph.jpg);
+}
+
+.img-footer {
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+    padding: 15px;
+    margin font-size: 1rem;
+    color: white;
+}
 
 /* end INFORMAZIONI PRODOTTI */
 
