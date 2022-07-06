@@ -1,9 +1,107 @@
-#testo-chiaro {
-    color: lightgray;
-    font-size: 15px;
+/* IMPOSTAZIONE PAGINA */
+* {
+    margin: 0px;
+    padding: 0px;
 }
 
+.paragrafi {
+    margin-top: 15px;
+}
+
+/* end IMPOSTAZIONE PAGINA */
+
+/* LOGO */
+header {
+    background-image: url(../img/pattern.png);
+    background-color: #4ea0ff;
+    background-size: 20%;
+}
+
+#logo {
+    height: 45px;
+    margin: 20px 5px 7px;
+}
+
+/* end LOGO */
+
+
+/* ARTICOLO */
+
+
+/* TITOLO e AUTORE */
+#sottotitolo {
+    color: #8f8f8f;
+}
+
+#autore {
+    color: #4ea0ff;
+}
+
+#data-pubblicazione {
+    font-size: 0.7rem;
+}
+
+/* TITOLO e AUTORE */
+
+/* IMMAGINI */
 #tim-1 {
+    height: 400px;
+}
+
+#tim-2 {
+    height: 400px;
+}
+
+.descrizione-foto {
+    font-size: 0.7rem;
+}
+
+/* end IMMAGINI */
+
+/* TESTO LOREM */
+.evidenziato {
+    background-color: yellow;
+}
+
+/* end TESTO LOREM */
+
+/* ELENCO PUNTATO */
+
+/* end ELENCO PUNTATO */
+
+/* TABELLA LOREM */
+
+/* end TABELLA LOREM */
+
+/* INFORMAZIONI PRODOTTI */
+
+/* end INFORMAZIONI PRODOTTI */
+
+
+/* end ARTICOLO */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* #tim-1 {
     width: 60%;
 
 }
@@ -23,4 +121,4 @@
 #riga-titoli {
     background-color: aqua;
     color: white;
-}
+} */
